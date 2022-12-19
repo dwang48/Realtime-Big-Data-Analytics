@@ -1,0 +1,6 @@
+mr\Mapper.class
+mr\Driver.class
+mr\Utils.class
+mr\EnergyValueWritable.class
+mr\Reducer.class
+mr\EnergyKeyWritable.class
